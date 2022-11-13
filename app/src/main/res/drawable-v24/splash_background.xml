@@ -8,6 +8,7 @@
         android:drawable="@drawable/bg_gradient"/>
   
     <item
+        android:gravity="center"
         android:width="154dp"
         android:height="51dp" >
         <bitmap
