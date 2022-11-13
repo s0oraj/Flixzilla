@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932564711936",
+    "project_id": "flickzilla-63025",
+    "storage_bucket": "flickzilla-63025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932564711936:android:a2f63e366aef990c8f76e5",
+        "android_client_info": {
+          "package_name": "blog.cosmos.home.flickzilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932564711936-ea72ed8930094d1bv2un2eodg5duqqte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blog.cosmos.home.flickzilla",
+            "certificate_hash": "4290b61f112aea96226d90876c4da3a0e4b50ec8"
+          }
+        },
+        {
+          "client_id": "932564711936-t2qnc3p1a20e02olc47b3a0dehft20ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoJ_tSE2PKTzh_miKGTkJhZk1uT0NRNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932564711936-t2qnc3p1a20e02olc47b3a0dehft20ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+
+    <item
+
+        android:drawable="@drawable/bg_gradient"/>
+  
+    <item
+        android:width="154dp"
+        android:height="51dp" >
+        <bitmap
+
+            android:layout_width="match_parent"
+            android:gravity="fill_horizontal|fill_vertical"
+            android:src="@drawable/flixzila" />
+    </item>
+
+
+
+
+</layer-list>
