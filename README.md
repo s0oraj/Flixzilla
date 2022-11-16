@@ -1,23 +1,22 @@
 ![banner](https://user-images.githubusercontent.com/42529024/202037330-c6cad7bf-3d81-419b-9584-7549fc0f651b.png)
 
 
- # Animus - The social media app
+ # Flixzilla - A netflix Watch latest movies and tv shows
 
- A social media android application which stores users data in  [Firebase Database](https://firebase.google.com/docs/firestore).
-
- It uses native android java and xml as frontend and logic of the app.
-
+ This is a netflix clone application which can be used to see lastest movies, trailers and tv shows.
+ This application is built with native android java for backend logic and xml for UI.
 
 
- * Users can add posts, like other users posts and comment on posts, they can also find and follow others using the search button
+
+ * Users will be updated with latest movies and tv shows along with their 
  * Users can also add new status which their followers can see. This status can be a video or image file which lasts for 24 hours.
  * Messaging feature allows users to stay in touch with their friends!
 
 
  ## Screenshots
 
-![Screeshot_1](https://user-images.githubusercontent.com/42529024/198926752-693c765d-e8a0-4322-8a05-bb8b274cc602.png)
-![Screenshot_2](https://user-images.githubusercontent.com/42529024/198926742-61272946-a468-42f8-bb3b-ae085d1bb005.png)
+![Screenshots](https://user-images.githubusercontent.com/42529024/202055025-9853f8c3-880d-46fa-9bd7-e222ef9ae788.png)
+
 
 
 
