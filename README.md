@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/42529024/202037330-c6cad7bf-3d81-419b-9584-7549fc0f651b.png)
+![Flixzilla banner](https://user-images.githubusercontent.com/42529024/202111466-cd857e0a-d0f0-416c-80f3-c6c43ab775f2.png)
 
 
  # Flixzilla -  Watch latest Movies and TV shows
