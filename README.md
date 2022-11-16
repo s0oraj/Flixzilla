@@ -6,9 +6,7 @@
  This is a netflix clone application which can be used to see lastest movies, trailers and tv shows.
  This application is built with native Android Java for backend logic and XML for UI.
 
-Install & try the app: [Download APK](https://drive.google.com/file/d/1Ysg01UcOXfticLrtStf2CNlqX8CaMk4P/view?usp=sharingg)
-
-
+Install & try the app: [Download APK](https://drive.google.com/file/d/1I65cnVoqfQvFrVowe3CA9GS0iNMfiR4h/view?usp=drivesdk)
 
  * Users get an updated list of latest movies and tv shows along with their details such as date of release, description, IMDB rating etc.
  * Movie related data is being taken from The Movie Database (TMDB)
