@@ -15,7 +15,7 @@ Install & try the app: [Download APK](https://drive.google.com/file/d/1I65cnVoqf
 
  ## Screenshots
 
-![Screenshots](https://user-images.githubusercontent.com/42529024/202055025-9853f8c3-880d-46fa-9bd7-e222ef9ae788.png)
+![Flixzilla screenshots](https://user-images.githubusercontent.com/42529024/202111939-22cf25c9-f4e4-421c-a9a7-de663d440094.png)
 
 
 
